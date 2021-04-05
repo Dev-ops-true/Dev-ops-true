@@ -14,4 +14,7 @@
 
 ---
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dev-ops-true&hide=starts,contribs)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dev-ops-true&hide=stars,contribs&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-ops-true)](https://github.com/anuraghazra/github-readme-stats)
