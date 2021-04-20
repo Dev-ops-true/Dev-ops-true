@@ -27,7 +27,11 @@ Whilst working as a mechanical project manager I have learned the importance of 
 
 ## My Journey 
 
-I have been working in construction for all my adult life apart form 8 months spent working at Blockbusters, ah yes the “good old days” where you had to leave your house to rent a movie and pay a fee if you returned it late. I have amassed a vast amount of skills and knowledge over my career, especially the past 5 years as I have been in a management position for projects and departments respectively. Working as a mechanical project manager I have had to deal with rushed deadlines, tight budget constraints, client specifications and more than my fair share of clashing personalities. I have worked in teams to deliver projects worth millions of pounds and I have worked on projects single handidly. I have faced great challenges in both my professional and personal life, these challenges have only left me a more competent, consciences, caring and eager human being and I cannot wait for my next great challenge.  
+I have been working in construction for all my adult life, apart from the 8 months I spent working at a Blockbusters video store. Ah yes the “good old days” where you had to leave your house to rent a movie and pay a fee if you returned it late. After my short stent in the "plastic disk for hire bussiness" I landed an apprentiship at a company that installs heating, ventilation and air conditioning systems (HVAC) which is just a fancy way of saying "aircons". Skip forward 10 years and I had filled my boots with all the aircon issues, refrigerant burns and overtime for the same company. It was time for change, so I up and left the land of lions, Table mountain and great weather for Europe, and where better to go than a place that has "Great" in its title. I then continued my career as a mechanical project manager on various construction projects. 
+
+18 months ago I stumbled across this massive coding world and could not keep my fingers off my keyboard, which eventually lead me to enrolling into a full-time developer course.
+
+I have faced great challenges in my life and these challenges have only made me a more competent, consciences, caring and eager person, and I cannot wait for my next great challenge.  
 
 ---
 
