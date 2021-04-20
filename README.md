@@ -2,14 +2,10 @@
 ---
 I am striving to become the best developer I can possibly be. I am currently on a developer boot camp provided by <a href="https://makers.tech/">Makers</a>. I have been interested in coding for the past year and a half and have made real efforts to absorb as much as possible for the last year with short courses, tutorials and self study. During this period I have realized that only by commiting to coding full time will I be able to make the progress I require to be able to work in the coding world as I intend to, so this is exactly what I did.
 ---
-## Skills so far...
-# Bar chart
-{{Bar-Chart}}
-- HTML:1
-- CSS:2
-- RUBY: 3
-- JavaScript:1
-- AWS:2
+## Projects
+| Project name | Description | Tools | Link |
+|--------------|-------------|-------|------|
+|    OlyBet    |Covert JSON data to automatically populate a styled website as it changes |
 
 
 ---
