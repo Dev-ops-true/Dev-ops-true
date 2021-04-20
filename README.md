@@ -2,7 +2,7 @@
 ---
 
 
-I am striving to become the best developer I can possibly be. I am currently on a developer boot camp provided by <a href="https://makers.tech/">Makers</a>. I have been interested in coding for the past year and a half and have made real efforts to absorb as much as possible for the last year with short courses, tutorials and self study. During this period I have realized that only by commiting to coding full time will I be able to make the progress I require to be able to work in the coding world as I intend to. I have left my "safe" career as a mechanical project manager to persue my dream job.
+I am striving to become the best developer I can possibly be. I am currently on a developer boot camp provided by <a href="https://makers.tech/">Makers Academy</a>. I have been interested in coding for the past 18 months and have made real efforts to absorb as much as possible with short courses, tutorials and self study. During this period I have realized that only by commiting to coding full time, will I be able to make the progress I require to be able to work in the coding world as I intend to. I have left my "safe" career as a mechanical project manager to persue my dream job.
 
 
 ---
