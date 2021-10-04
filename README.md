@@ -48,4 +48,4 @@ I have faced great challenges in my life and these challenges have only made me 
 
 ## Contact links
 
-linkedin gmail codewars twitter 
+ [This is an external link to genome.gov] (https://www.genome.gov/)
