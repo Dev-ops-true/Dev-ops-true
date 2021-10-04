@@ -48,4 +48,4 @@ I have faced great challenges in my life and these challenges have only made me 
 
 ## Contact links
 
- [This is an external link to genome.gov](https://www.genome.gov/)
+ [LinkedIn](https://www.linkedin.com/in/dewald-viljoen-938668154/)
